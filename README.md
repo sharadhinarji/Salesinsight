@@ -30,7 +30,7 @@ These insights support **inventory management, marketing strategies, and revenue
 ---
 
 ## 📸 Dashboard Preview
-![Sales Dashboard](a9802d72-3cad-4cb0-b501-3bb45a2eda88.png)
+![Sales Dashboard](sales.png)
 
 ---
 
